@@ -36,4 +36,3 @@ export const Legenda = styled(Resultado)`
 `
 
 export default EstiloGlobal
-

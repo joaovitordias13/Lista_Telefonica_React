@@ -56,6 +56,4 @@ const BarraLateral = ({ mostratFiltros }: Props) => {
   )
 }
 
-
-
 export default BarraLateral
